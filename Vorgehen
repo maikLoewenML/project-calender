@@ -1,0 +1,11 @@
+Aus Reclaim werden die Eigenschaften aus Tasks und Smart 1:1 kombiniert und daraus können "Projects" angelegt werden.
+
+Folgende Parameter sollten miteinbezogen werden:
+Gauß'sche Glockenkurve kann variabel angepasst werden --> daran orientiert sich die Meetingregelmäßigkeit
+Projektstart und Projektdeadline
+Meetingdauer
+Teilnehmer
+Projektbeschreibung
+Besprechungsort
+
+get("/calenderapitest/createevent") als Post umwandeln
